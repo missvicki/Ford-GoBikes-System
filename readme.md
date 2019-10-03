@@ -7,21 +7,22 @@
 This project focuses on visualizing the [Ford GoBike System data set](https://www.lyft.com/bikes/bay-wheels/system-data) that includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 
 Features included the data set are:
-    - Trip Duration (seconds)
-    - Start Time and Date
-    - End Time and Date
-    - Start Station ID
-    - Start Station Name
-    - Start Station Latitude
-    - Start Station Longitude
-    - End Station ID
-    - End Station Name
-    - End Station Latitude
-    - End Station Longitude
-    - Bike ID
-    - User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
-    - Member Year of Birth
-    - Member Gender
+
+- Trip Duration (seconds)
+- Start Time and Date
+- End Time and Date
+- Start Station ID
+- Start Station Name
+- Start Station Latitude
+- Start Station Longitude
+- End Station ID
+- End Station Name
+- End Station Latitude
+- End Station Longitude
+- Bike ID
+- User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
+- Member Year of Birth
+- Member Gender
 
 ## Summary of Findings
 
