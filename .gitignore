@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints/
+Ford-Bike-Data/
+master_data.csv
+df_bikes_master.csv
